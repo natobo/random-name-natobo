@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-natobo",
+  "version": "1.0.1",
+  "description": "Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Nicolás Tobo <nicotobo@gmail.com> (natobo)",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natobo/random-name-natobo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natobo/random-name-natobo/issues"
+  },
+  "homepage": "https://github.com/natobo/random-name-natobo#readme"
+}
